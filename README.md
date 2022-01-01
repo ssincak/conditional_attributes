@@ -1,6 +1,6 @@
 # README #
 
-Conditional attributes that can be used to show/hide script variables in editor based on some other variable values.
+Conditional attributes that can be used to show/hide script variables in Unity editor based on some other variable values.
 
 ## EXAMPLE ##
 
